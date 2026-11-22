@@ -1,0 +1,18 @@
+import pytest
+from calculator import Calculator
+
+
+def test_sum():
+    assert Calculator(10, 2).sum() == 12
+
+
+def test_subtract():
+    assert Calculator(10, 2).subtract() == 8
+
+
+def test_multiply():
+    assert Calculator(10, 2).multiply() == 20
+
+
+def test_divide():
+    assert Calculator(10, 2).divide() == 5
