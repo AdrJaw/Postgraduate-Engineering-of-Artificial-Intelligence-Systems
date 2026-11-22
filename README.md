@@ -1,5 +1,3 @@
-# Postgraduate Engineering of Artificial Intelligence Systems
-
 # Postgraduate Studies in Artificial Intelligence Systems Engineering
 
 This repository documents my learning journey in the postgraduate programme **Artificial Intelligence Systems Engineering** at the **Faculty of Computer Science, AGH University of Krakow**.
