@@ -12,17 +12,6 @@ A significant part of the programme is devoted to data engineering and MLOps. Th
 
 The programme also introduces modern computing environments, including cloud services, high-performance computing platforms, clusters, and embedded systems. Alongside technical topics, it addresses legal aspects of AI, including relevant regulations, copyright, and the use of AI tools.
 
-## Topics Covered
-
-- **Software engineering:** Python programming, AI and machine learning libraries, version control with Git, teamwork, and web technologies.
-- **AI methods:** symbolic AI, knowledge representation and reasoning, heuristic optimisation, classical machine learning, and neural networks.
-- **Natural language processing:** techniques ranging from classical NLP to large language models.
-- **Computer vision:** image processing and analysis.
-- **Data engineering:** data formats, data pipelines, and vector databases.
-- **MLOps:** code and data versioning, experiment tracking, model debugging, deployment, and production monitoring, including data and concept drift.
-- **Computing environments:** cloud services, networked systems, supercomputers, computing clusters, microplatforms, and embedded systems.
-- **Legal aspects of AI:** regulations, copyright, and the responsible use of AI tools.
-- **AI-assisted engineering:** using AI assistants and agents to support development while carefully reviewing and verifying the resulting work.
 
 ## Repository Contents
 
